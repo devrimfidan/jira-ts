@@ -4,7 +4,9 @@ A modern, responsive React dashboard for managing Jira service requests with a K
 
 ![Dashboard Screenshot](public/assets/Screenshot_30-6-2025_175715_localhost.jpeg)
 
+![Dashboard Crete Ticket](public/assets/tickret_create.gif)
 
+![Dashboard Preview Details](public/assets/ticket_update.gif)
 
 ## 🌟 Features
 
