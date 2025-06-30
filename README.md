@@ -261,4 +261,6 @@ For support and questions:
 
 **Version**: 0.1.0  
 **Last Updated**: June 2025  
-**Maintained by**: Targeted Services Team
+**Maintained by**: N/A
+
+![Dashboard Screenrecord](public/assets/Screen_Recording.mov)
